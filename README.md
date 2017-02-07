@@ -4,7 +4,7 @@ On Non-Parametric Priors in Facial Alignment
 you need the model file to run the tracker.
 send me an email to cpi@partofthestars.com to request the model.
 
-after receiving the model you have ti put it into the data directory.
+after receiving the model you have to put it into the data directory.
 
 install the vcredist_x64.exe start the application via Tracker.exe
 
